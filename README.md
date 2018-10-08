@@ -1,4 +1,7 @@
 # uc914-docker-openjscad
+
+CONTRIBUTEUR : Warren GASPARD
+
  
 Pour build l'image du dockerfile:
 
@@ -10,6 +13,6 @@ Pour démarer le serveur de l'image:
 
   lancer la commande : sudo docker run -p 80:8080 "le nom de l'image"
   
-  accerder à l'URL 127.0.0.1:8080
+  accerder à l'URL 127.0.0.1
   
 Openjscad se lancera alors dans votre navigateur.
